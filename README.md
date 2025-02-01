@@ -10,9 +10,10 @@ Currently I am:
 - Developing a Tron(link coming soon) City 3D space on the web.
 - Polishing a couple of my existing projects which you can find in this profile.
 
-
-
-
+## Last Semester
+- I was abroad in Budapest studying at [AIT](https://www.ait-budapest.com/).
+- Visited a dozen countries in Europe!
+- Lost my right airpod 🫤.
 
 
 ## Fun Facts
@@ -25,3 +26,4 @@ I love meeting new people and discussing, well, anything. Feel free to reach out
 
 
 ## Languages and Tools:
+![LinkedIn](images/linkedin-icon.svg)
