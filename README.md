@@ -23,7 +23,6 @@ Currently I am:
 
 ## Connect with me
 I love meeting new people and discussing, well, anything. Feel free to reach out to me via email at **nikoloz.gvelesiani@richmond.edu**. You can also find me on:
-
+![LinkedIn](images/linkedin-icon.svg)
 
 ## Languages and Tools:
-![LinkedIn](images/linkedin-icon(1).svg)
