@@ -26,4 +26,4 @@ I love meeting new people and discussing, well, anything. Feel free to reach out
 
 
 ## Languages and Tools:
-![LinkedIn](images/linkedin-icon.svg)
+![LinkedIn](images/linkedin-icon.jpg)
