@@ -22,7 +22,10 @@ Currently I am:
 - I enjoy skiing, and want to learn surfing and skydiving ASAP.
 
 ## Connect with me
-I love meeting new people and discussing, well, anything. Feel free to reach out to me via email at **nikoloz.gvelesiani@richmond.edu**. You can also find me on:
+I love meeting new people and discussing, well, anything. Feel free to reach out to me via email at **nikoloz.gvelesiani@richmond.edu**. 
+
+You can also find me on:
+
 ![LinkedIn](images/linkedin-icon.svg)
 
 ## Languages and Tools:
