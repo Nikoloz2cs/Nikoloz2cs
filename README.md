@@ -26,7 +26,7 @@ I love meeting new people and discussing, well, anything. Feel free to reach out
 
 You can also find me on:
 
-![LinkedIn](images/linkedin-icon.svg) ![Website](images/website.png) ![Instagram](images/instagram.png)
+[![LinkedIn](images/linkedin-icon.svg)](https://www.linkedin.com/in/nikoloz-gvelesiani-7b2082264/) [![Website](images/website.png)](https://nikolozgv.com) [![Instagram](images/instagram.png)](https://instagram.com/nika_gvelesiani_)
 
 ## Languages and Tools:
 ![C++](images/c-plusplus.svg) ![Python](images/python.svg) ![Swift](images/swift.svg) ![Java](images/java.svg) ![JavaScript](images/javascript.svg) ![TypeScript](images/typescript-icon.svg) ![ThreeJS](images/threejs.svg) ![React](images/react.svg) ![Firebase](images/firebase.svg) ![Git](images/git-icon.svg) ![TensorFlow](images/tensorflow.svg) 
